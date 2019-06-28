@@ -1,0 +1,29 @@
+{
+  "places": [
+    {
+      "name": "Puerta de Alcala",
+      "lat":  40.42,
+      "lng":  -3.68861
+    },
+    {
+      "name": "Vicente Calderón",
+      "lat": 40.4017000,
+      "lng":  -3.7205600
+    },
+    {
+      "name": "Puerta del Sol",
+      "lat": 40.4146500,
+      "lng": -3.7004000
+    },
+    {
+      "name": "Templo de Debod",
+      "lat": 40.4240216,
+      "lng": -3.7177695
+    },
+    {
+      "name": "Parque del Retiro",
+      "lat": 40.4152606,
+      "lng": -3.6844995
+    }
+  ]
+}
